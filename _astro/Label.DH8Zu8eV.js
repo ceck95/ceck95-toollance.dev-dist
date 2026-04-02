@@ -1,0 +1,1 @@
+import{j as r}from"./jsx-runtime.u17CrQMm.js";import{c as m}from"./Button.moi2eqjU.js";function n({className:t,children:e,...o}){return r.jsx("label",{className:m("text-sm font-medium text-foreground",t),...o,children:e})}export{n as L};

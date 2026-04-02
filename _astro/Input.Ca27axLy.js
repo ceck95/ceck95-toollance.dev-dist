@@ -1,0 +1,1 @@
+import{j as e}from"./jsx-runtime.u17CrQMm.js";import{c as t}from"./Button.moi2eqjU.js";function d({className:r,...o}){return e.jsx("input",{className:t("w-full rounded-md border border-border bg-background px-3 py-2 text-sm text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary disabled:opacity-50",r),...o})}export{d as I};
